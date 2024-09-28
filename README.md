@@ -32,7 +32,7 @@
 ## Виконання програми
 1. Клонувати репозиторій:
    ```bash
-   git clone <[url_репозиторію](https://github.com/RudychukDmytro/OOP_Labs_2)>
+   git clone https://github.com/RudychukDmytro/OOP_Labs_2
 2. Перейти відкрити в термінальному вікні робочий каталог
 3. Виконати компіляцію:
    ```bash
